@@ -49,7 +49,7 @@ Para llevar a cabo la instalación hay que seguir los pasos que se ven en las si
 
 Cuando se complete la instalación deberemos borrar el directorio install, esto lo hacemos entrando en el contenedor Docker de Prestashop y eliminando la carpeta install desde ahí.
 
-![](https://raw.githubusercontent.com/joseean29/Practica-Prestashop/main/images/rm-install.PNG?token=AOMWPNLXAUTEE2UY5JPUEM3AIN2YO)
+![](https://raw.githubusercontent.com/joseean29/Practica-Prestashop/main/images/rm-install.PNG?token=AOMWPNK35BWW4BYKIATB7Q3AIN3RA)
 
 Después de esto entramos en el sitio y en la sección de administración.
 
