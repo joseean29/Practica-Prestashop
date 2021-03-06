@@ -31,7 +31,7 @@ Docker-compose permitque que creemos un archivo de configuracion para que median
 
 El comando que consigue poner en marcha todas las instalaciones es el siguiente: `docker-compose up`
 
-Se pueden y es recomendable hacer uso de variables para no tener que escribir los parametros a cada rato, para poder usarlas necesitamos un archivo .env que se encontrará en la misma carpeta que el docker-compose.yml
+Se pueden y es recomendable hacer uso de variables para no tener que escribir los parametros a cada rato, para poder usarlas necesitamos un archivo `.env` que se encontrará en la misma carpeta que el `docker-compose.yml`
 
 ## Instalación y puesta en marcha de Prestashop
 Para llevar a cabo la instalación hay que seguir los pasos que se ven en las siguientes capturas
@@ -40,11 +40,15 @@ Para llevar a cabo la instalación hay que seguir los pasos que se ven en las si
 Cuando se complete la instalación deberemos borrar el directorio install, esto lo hacemos entrando en el contenedor Docker de Prestashop y eliminando la carpeta install desde ahí.
 
 ## Credenciales e IP
+```
 correo: josean@demo.com
 contraseña: asir2aJAAJ
+```
 
+```
 base de datos: mysql
 usuario: ps_user
 contraseña: ps_password
+```
 
 IP:
