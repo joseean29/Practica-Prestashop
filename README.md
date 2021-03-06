@@ -72,4 +72,4 @@ usuario: ps_user
 contraseña: ps_password
 ```
 
-IP:
+IP: **[Prestashop](3.216.29.178)**
